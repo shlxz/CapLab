@@ -1,0 +1,15 @@
+# PlatformIO build output
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# WorkBuddy session data
+.workbuddy/
+
+# Working screenshots (official ones live in firmware/docs/)
+shot/
+
+# Build/test artefacts
+*.log
+*.tmp
+dist/

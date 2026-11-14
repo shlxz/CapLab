@@ -1,0 +1,5 @@
+.pio/
+build.log
+build2.log
+*.bin
+*.elf
