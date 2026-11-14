@@ -8,7 +8,7 @@
 | **Version**       | `1.5.1`                                       |
 | **Device**        | **Cardputer ADV**（不要选 `Cardputer`，两者是不同分类）    |
 | **Categories**    | 选站上最接近的 Tools / Utilities 或 RF 类（以实际下拉项为准）    |
-| **Github**        | 你的公开仓库地址，形如 `https://github.com/<用户名>/CapLab` |
+| **Github**        | `https://github.com/shlxz/CapLab` |
 | **FirmWare**      | `CapLab-1.5.1-full.bin`（**合并镜像**，烧录地址 `0x0`）  |
 | **Cover**         | `CapLab-1.5.1-cover.png`（1600×900，16:9）       |
 | **Visibility**    | `Public`（提交后状态为 `Pending`，M5Stack 审核通过才公开）    |

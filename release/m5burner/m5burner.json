@@ -3,7 +3,7 @@
   "description": "Sub-GHz capture/replay + NFC read/clone/emulate for Cardputer ADV with Cap CC1101 (U219)",
   "keywords": "ESP32-S3, CC1101, ST25R3916, NFC, Sub-GHz, Cardputer ADV",
   "author": "CapLab",
-  "repository": "https://github.com/YOUR_ACCOUNT/CapLab",
+  "repository": "https://github.com/shlxz/CapLab",
   "firmware_category": [
     {
       "CapLab": {

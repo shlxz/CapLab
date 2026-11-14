@@ -5,9 +5,9 @@
 
 ## 提交前必改
 
-`m5burner.json` 里的 `repository` 目前是占位符
-`https://github.com/YOUR_ACCOUNT/CapLab`，改成你的真实公开仓库地址。
-WebBurner 表单的 `Github` 字段同样必填，没有公开仓库就先建一个。
+`m5burner.json` 里的 `repository` 已填好公开仓库地址
+`https://github.com/shlxz/CapLab`。
+WebBurner 表单的 `Github` 字段填同一个地址。
 
 ## 目录规则（官方要求）
 
